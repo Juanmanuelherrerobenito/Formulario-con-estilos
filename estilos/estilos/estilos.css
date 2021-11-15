@@ -1,0 +1,15 @@
+input{
+padding: 5px;
+}
+label{
+padding: 50px;
+}
+table{
+ border-color: #202E58 0;  
+}
+table{
+background-color: #74B9E2;
+}
+input:focus{
+background-color: #CFCA00;
+}
